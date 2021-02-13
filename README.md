@@ -1,6 +1,6 @@
 # Outside Click
 
-A simple outside click listener, with no external dependencies.
+A simple outside click listener with no external dependencies.
 
 ## Install
 
