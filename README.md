@@ -40,4 +40,6 @@ An __optional__ function which disables the outside-click listener if it returns
 
 ## License
 
-MIT © [Tobias Herber](https://herber.space)
+MIT © [Tobias Herber](https://github.com/herber)
+
+[![Made by Varld](https://potato.varld.co/oss/badge.svg)](https://varld.co)
