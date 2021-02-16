@@ -2,6 +2,12 @@
 
 A simple outside click listener with no external dependencies.
 
+# Features
+
+- Super Tiny [(Just 300 Byte)](https://bundlephobia.com/result?p=@varld/outside-click@0.1.1)
+- Support for multiple inside elements
+- Disable dynamically
+
 ## Install
 
 ```
